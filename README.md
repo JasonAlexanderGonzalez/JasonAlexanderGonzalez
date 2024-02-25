@@ -5,6 +5,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=JasonAlexanderGonzalez&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JasonAlexanderGonzalez&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAlexanderGonzalez&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JasonAlexanderGonzalez&icon=0&color=0)](https://visitcount.itsvg.in)
