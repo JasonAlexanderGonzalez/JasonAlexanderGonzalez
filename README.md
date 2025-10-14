@@ -15,7 +15,8 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![GitHub Enterprise Cloud](https://img.shields.io/badge/GitHub%20Enterprise%20Cloud-181717?style=for-the-badge&logo=github&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=JasonAlexanderGonzalez&color=blue&style=for-the-badge)
+
 
 
 
